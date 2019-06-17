@@ -3,6 +3,10 @@ import numpy as np
 import jieba
 import collections
 import json
+
+
+
+
 '''
 list1=['1','1','2','2','3','3','3']
 list2=['a1','a2','b1','b2','c1','c2','c3']
